@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  url: 'http://tindin-api-prod.com.br'
+  url: 'http://tindin-api-hmg.com.br'
 };
